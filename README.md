@@ -2,6 +2,7 @@
 
 Data Science exercises, in R script. 
 Based on the tutorials proposed by **Data Science Live**, by Rob Campanell (org.).
+
 All episodes avaliable from: [Data Science Live](http://datasciencelive.com/).
 
 The general objective is to develop working skills with the R language and with IDE RStudio. 
